@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1677425339 source:e:\courses\into to c programming\applications\adanced calc fuctions\main.c
+	<stdio.h>
+	<stdlib.h>
+
