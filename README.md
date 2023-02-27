@@ -10,4 +10,4 @@ calculator using functions and switch statement.
                    6- function that tell you positive Or Neg float
                        7- function for replaying the menu
       
-this taks doucmented. 
+this task was documented.
